@@ -11,4 +11,7 @@ public class test {
 
 
     }
+    public void ss(){
+        System.out.println("11111111111111111111111");
+    }
 }
